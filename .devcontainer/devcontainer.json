@@ -35,7 +35,7 @@
 	"postCreateCommand": "pip3 install -r requirements.txt",
 	"features": {
 		"ghcr.io/devcontainers/features/aws-cli:1": {},
-		"ghcr.io/devcontainers/features/azure-cli:1": {},
+		// "ghcr.io/devcontainers/features/azure-cli:1": {},
 		"ghcr.io/devcontainers/features/git:1": {},
 		"ghcr.io/guiyomh/features/vim:0": {}
 	}
